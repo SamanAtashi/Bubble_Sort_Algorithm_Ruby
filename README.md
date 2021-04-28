@@ -9,12 +9,13 @@
 - Ruby 
 - Test: Rubocop
 
-## 👤 **Authors**
+## 👤 **Daniel maina**
 
 - GitHub: [@danmainah](https://github.com/danmainah)
 - Twitter: [@Danmainah](https://twitter.com/dan_mainah)
 - LinkedIn: [@Daniel-Maina](www.linkedin.com/in/daniel-maina-315a38191)
 
+## 👤 **Saman Atashi**
 
 - GitHub: [@SamanAtashi](https://github.com/SamanAtashi)
 - Twitter: [@AtashiSaman](https://twitter.com/AtashiSaman)
