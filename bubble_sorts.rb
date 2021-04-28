@@ -13,6 +13,9 @@ def bubble_sort(arr)
 end
 
 def bubble_sort_by(arr)
+if arr.empty? or arr.nil?
+    p "no block given"
+else
   sorted = false
   until sorted
     sorted = true
@@ -24,4 +27,6 @@ def bubble_sort_by(arr)
     end
   end
   p arr
+end  
 end
+bubble_sort_by([])
